@@ -2,32 +2,72 @@
 #include <iostream>
 using namespace std;
 
+// int main() {
+//     int arr[4][5];
+//     int value = 1;
+
+//     // Fill first row left to right
+//     for(int j = 0; j < 5; j++) arr[0][j] = value++;
+
+//     // Fill last column top to bottom
+//     for(int i = 1; i < 3; i++) arr[i][4] = value++;
+
+//     // Fill last row right to left
+//     for(int j = 4; j >= 0; j--) arr[3][j] = value++;
+
+//     // Fill first column bottom to top
+//     for(int i = 2; i >= 1; i--) arr[i][0] = value++;
+
+//     // Fill middle inner row left to right
+//     for(int j = 1; j < 4; j++) arr[1][j] = value++;
+
+//     // Fill middle inner row right to left
+//     for(int j = 3; j > 0; j--) arr[2][j] = value++;
+
+//     // Print the array
+//     for(int i = 0; i < 4; i++) {
+//         for(int j = 0; j < 5; j++)
+//             cout << arr[i][j] << " ";
+//         cout << endl;
+//     }
+
+//     return 0;
+// }
+
 int main() {
-    int arr[4][5];
-    int value = 1;
+    int n = 5;
 
-    // Fill first row left to right
-    for(int j = 0; j < 5; j++) arr[0][j] = value++;
+    // Upper half
+    for(int i = 1; i <= n; i++) {
+        // left stars
+        for(int j = 1; j <= i; j++)
+            cout << "*";
 
-    // Fill last column top to bottom
-    for(int i = 1; i < 3; i++) arr[i][4] = value++;
+        // spaces
+        for(int j = 1; j <= 2*(n - i); j++)
+            cout << " ";
 
-    // Fill last row right to left
-    for(int j = 4; j >= 0; j--) arr[3][j] = value++;
+        // right stars
+        for(int j = 1; j <= i; j++)
+            cout << "*";
 
-    // Fill first column bottom to top
-    for(int i = 2; i >= 1; i--) arr[i][0] = value++;
+        cout << endl;
+    }
 
-    // Fill middle inner row left to right
-    for(int j = 1; j < 4; j++) arr[1][j] = value++;
+    // Lower half
+    for(int i = n - 1; i >= 1; i--) {
+        // left stars
+        for(int j = 1; j <= i; j++)
+            cout << "*";
 
-    // Fill middle inner row right to left
-    for(int j = 3; j > 0; j--) arr[2][j] = value++;
+        // spaces
+        for(int j = 1; j <= 2*(n - i); j++)
+            cout << " ";
 
-    // Print the array
-    for(int i = 0; i < 4; i++) {
-        for(int j = 0; j < 5; j++)
-            cout << arr[i][j] << " ";
+        // right stars
+        for(int j = 1; j <= i; j++)
+            cout << "*";
+
         cout << endl;
     }
 
