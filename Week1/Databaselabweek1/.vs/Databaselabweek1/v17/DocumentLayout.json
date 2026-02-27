@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|d:\\universities\\semester 3\\dsal\\week1\\databaselabweek1\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|D:\\Universities\\Semester 3\\DSAL\\Week1\\Databaselabweek1\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|solutionrelative:runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|d:\\universities\\semester 3\\dsal\\week1\\databaselabweek1\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|D:\\Universities\\Semester 3\\DSAL\\Week1\\Databaselabweek1\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|solutionrelative:encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|d:\\universities\\semester 3\\dsal\\week1\\databaselabweek1\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|D:\\Universities\\Semester 3\\DSAL\\Week1\\Databaselabweek1\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADA1B6E-185E-4F81-909A-438EF37B60D9}|Databaselabweek1.csproj|solutionrelative:overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +38,7 @@
               "RelativeToolTip": "runtime.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T04:51:58.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T04:51:58.095Z"
             },
             {
               "$type": "Document",
@@ -55,8 +50,7 @@
               "RelativeToolTip": "overriding.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T04:15:22.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T04:15:22.712Z"
             },
             {
               "$type": "Document",
@@ -68,8 +62,7 @@
               "RelativeToolTip": "encapsulation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T03:58:52.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T03:58:52.665Z"
             },
             {
               "$type": "Document",
@@ -79,7 +72,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Universities\\Semester 3\\DSAL\\Week1\\Databaselabweek1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T03:47:13.913Z",
               "EditorCaption": ""
