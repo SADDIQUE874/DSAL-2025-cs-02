@@ -1,0 +1,8 @@
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\bin\Debug\Databaselabweek1.exe.config
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\bin\Debug\Databaselabweek1.exe
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\bin\Debug\Databaselabweek1.pdb
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\obj\Debug\Databaselabweek1.csproj.AssemblyReference.cache
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\obj\Debug\Databaselabweek1.csproj.CoreCompileInputs.cache
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\obj\Debug\Databaselabweek1.exe
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\obj\Debug\Databaselabweek1.pdb
+D:\Universities\Semester 3\DSAL\Week1\Databaselabweek1\obj\Debug\Databaselabweek1.exe.config
